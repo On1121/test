@@ -1,0 +1,135 @@
+.header_logo{
+    float: left;
+}
+
+.header_menu{
+    background-color: black;
+    left: 0px;
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+}
+.header_menu ul li{
+    float: left;
+    list-style: none;
+    padding-right: 20px;
+    color: grey;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+main{
+    clear:both;
+}
+
+.main-container{
+    width: 98%;
+    height: 90%;
+}
+
+.left{
+    float: left;
+    background-color: white;
+    width: 65%;
+    height: 90%;
+    margin-top: 5px;
+}
+
+h1{
+    border-left: solid 5px black;
+    border-bottom: solid 3px black;
+}
+
+h3{
+    border-left: solid 4px red;
+    padding-left: 3px;
+}
+
+.nyuuryokuform{
+                margin-top:30px; 
+                margin-bottom:20px; 
+                background-color:#f1f1f1; 
+                padding-top:5px; 
+                padding-bottom:5px; 
+                padding-left: 5px;
+                width:700px; 
+                font-size:20px;
+}
+
+.text, textarea{ 
+                border:1px solid #dfdfdf; 
+                padding:5px;
+                color: #999;
+                background: #fff; 
+}
+
+.commentarea{
+            border:1px solid #dfdfdf; 
+            padding:5px;
+            width: 350px;
+            color: #999;
+            background: #fff;
+}
+
+.submit{
+    border:1px solid lightgray; 
+    padding: 4px 10px; 
+    color:white; 
+    background-color: #bfbfbf; 
+    border-radius: 5px; 
+    border-bottom: solid 2px gray;
+}
+
+.kizinonakami{
+             margin-top:30px; 
+             margin-bottom:20px; 
+             background-color:#f1f1f1; 
+             padding-top:5px; 
+             padding-bottom:5px;       padding-left: 5px;
+             width:700px; 
+             font-size:20px;
+}
+
+.p{
+    font-size:15px;
+}
+
+.toorisugari{
+    font-size:13px;
+}
+
+h4{
+    border-bottom: solid 1px grey;
+}
+
+.right{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 90%;
+    margin-top: 5px;
+    padding-top: 30px;
+}
+    
+.right h2{
+    font-size: 20px;
+    border-bottom: 5px double black;
+}
+.right li {
+    list-style: none;
+    padding-right: 10px;
+    color: black;
+    font-size: 15px;
+}
+
+footer{
+    clear: left;
+    width: 100%;
+    height: 5%;
+    bottom: 0px;
+    left: 0px;
+    color: grey;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
+
